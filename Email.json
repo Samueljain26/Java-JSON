@@ -1,0 +1,5 @@
+[
+  { "email": "samuel@example.com" },
+  { "email": "invalid-email" },
+  { "email": "test@gmail.com" }
+]
